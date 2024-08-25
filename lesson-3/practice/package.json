@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "lodash": "*"
+  },
+  "scripts": {
+    "test": "node ./tests/take.test.js"
+  },
+  "type": "module"
+}
