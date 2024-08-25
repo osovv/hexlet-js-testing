@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "lodash": "*",
+    "power-assert": "*"
+  },
+  "scripts": {
+    "test": "node ./tests/indexOf.test.js"
+  },
+  "type": "module"
+}
