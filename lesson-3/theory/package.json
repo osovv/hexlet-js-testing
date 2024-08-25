@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "lodash": "*"
+  },
+  "scripts": {
+    "test": "node ./tests/collection.test.js"
+  },
+  "type": "module"
+}
